@@ -1,6 +1,4 @@
 MWDB PROJECT - PHASE 1
-Author: Ashwin Karthik Ambalavanan
-Student- Arizona State University
 
 The codebase in this phase is used for finding similarity between users, images and locations from features extracted from a set of images in flickr as given in the link: http://skuld.cs.umass.edu/traces/mmsys/2015/paper-5
 
