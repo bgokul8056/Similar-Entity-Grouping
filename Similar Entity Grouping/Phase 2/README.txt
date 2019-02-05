@@ -1,15 +1,5 @@
 MWDB PROJECT - PHASE 2
 
-Contributors: 
-Ashwin Karthik Ambalavanan
-Ajay Gunasekaran
-Aditya Vikram Sharma
-Balaji Gokulakrishnan 
-Srivathsan Baskaran
-Akbar Jamal Abbas
-
-Student- Arizona State University
-
 The codebase in this phase is used for performing dimensionality reduction on the existing Object-Feature space using different techniques and finding similarity between users, images and locations from features extracted from a set of images in flickr as given in the link: http://skuld.cs.umass.edu/traces/mmsys/2015/paper-5
 
 Check the detailed description of tasks in the pdf file attached with the project. The task code SHOULD be run in the order described for correct execution.
